@@ -1,3 +1,5 @@
+/**how is this optimal? here i added a flag variable . if no comparision takes place that means the arr is already sorted so we can break out of the loop prematurely and return the result */
+
 public class Opt_BS {
     public static int[] bubblesort(int[] arr1,int n1){
 
